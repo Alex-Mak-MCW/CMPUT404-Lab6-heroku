@@ -1,1 +1,1 @@
-# CMPUT404-Lab6-heroku
+# CMPUT404-lab4-DjangoLab
